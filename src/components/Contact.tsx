@@ -16,7 +16,7 @@ function Contact() {
 
         <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
           <a
-            href="https://wa.me/6281234567890"
+            href="https://wa.me/6285730236778"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 p-6 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all border-2 border-green-100 hover:border-green-400 group"
